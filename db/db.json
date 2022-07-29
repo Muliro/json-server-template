@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 {
   "movies": [
     {
@@ -46,6 +53,106 @@
       "id": 8,
       "name": "Captain Marvel",
       "image": "http://localhost:3000/assets/images/captain-marvel.webp",
+      "likes": -2
+    }
+  ],
+  "series":[
+    {
+      "id": 1,
+      "name": "The Terminal List",
+      "image": "http://localhost:3000/assets/images/The_Terminal_List.jpeg",
+      "likes": 0
+    },
+    {
+      "id": 2,
+      "name": "The Boys",
+      "image": "http://localhost:3000/assets/images/The-boys.jpg",
+      "likes": 0
+    },
+    {
+      "id": 3,
+      "name": "The Last Kingdom",
+      "image": "http://localhost:3000/assets/images/The-last-kingdom.jpg.jpg",
+      "likes": 0
+    },
+    {
+      "id": 4,
+      "name": "Silicon Valley",
+      "image": "http://localhost:3000/assets/images/silicon-valley.webp",
+      "likes": 0
+    },
+    {
+      "id": 5,
+      "name": "See",
+      "image": "http://localhost:3000/assets/images/see.jpg",
+      "likes": 0
+    },
+    {
+      "id": 6,
+      "name": "Reacher",
+      "image": "http://localhost:3000/assets/images/Reacher_TV_poster.jpg",
+      "likes": 0
+    },
+    {
+      "id": 7,
+      "name": "Defending Jacob",
+      "image": "http://localhost:3000/assets/images/Defending-Jacob.jpg",
+      "likes": 0
+    },
+    {
+      "id": 8,
+      "name": "Control Z",
+      "image": "http://localhost:3000/assets/images/control_z.jpg",
+      "likes": -2
+    }
+  ],
+  "anime":[
+    {
+      "id": 1,
+      "name": "Akame Ga Kill",
+      "image": "http://localhost:3000/assets/images/akame-ga-kill.jpg",
+      "likes": 0
+    },
+    {
+      "id": 2,
+      "name": "Bleach",
+      "image": "http://localhost:3000/assets/images/Bleachanime.png",
+      "likes": 0
+    },
+    {
+      "id": 3,
+      "name": "Kimetsu No Yaiba",
+      "image": "http://localhost:3000/assets/images/demonslayer.jpg",
+      "likes": 0
+    },
+    {
+      "id": 4,
+      "name": "Kengan Ashura",
+      "image": "http://localhost:3000/assets/images/kengan-ashura.webp",
+      "likes": 0
+    },
+    {
+      "id": 5,
+      "name": "Kill La Kill",
+      "image": "http://localhost:3000/assets/images/kill.webp",
+      "likes": 0
+    },
+    {
+      "id": 6,
+      "name": "Naruto Shippuuden",
+      "image": "http://localhost:3000/assets/images/naruto.jpg",
+      "likes": 0
+    },
+    {
+      "id": 7,
+      "name": "Spriggan",
+      "image": "http://localhost:3000/assets/images/spriggan.jpg",
+      "likes": 0
+    },
+    {
+      "id": 8,
+      "name": "Sword Art Online",
+      "image": "http://localhost:3000/assets/images/swordart.jpg",
       "likes": -2
     }
   ]
